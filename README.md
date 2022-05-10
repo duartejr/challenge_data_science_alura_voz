@@ -32,7 +32,7 @@ Primeiro Challenge de Data Science da Alura
     * Os dados originalmente estavam em inglês e foram traduzidos para o português.
 - [x] 6. Criar coluna de contas diárias.
     * A estimativa dos gastos médios diários cada cliente foi feita dividindo-se os gastos mensais por 30, já que a maioria dos meses têm 30 dias.
-- Notebook da Primeira Semana: 
+- [Notebook da Primeira Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_1_explorando_dados.ipynb) 
 
 # Semana 2 do Challenge
 
