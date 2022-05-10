@@ -9,10 +9,10 @@ Primeiro Challenge de Data Science da Alura
 
 ## Índice 
 
-* [Semana 1 do Challenge](#semana_1_do_challenge)
-* [Semana 2 do Challenge](#semana_2_do_challenge)
-* [Semana 3 do Challenge](#semana_3_do_challenge)
-* [Semana 4 do Challenge](#semana_4_do_challenge)
+* [Semana 1 do Challenge](#semana_1_do_Challenge)
+* [Semana 2 do Challenge](#semana_2_do_Challenge)
+* [Semana 3 do Challenge](#semana_3_do_Challenge)
+* [Semana 4 do Challenge](#semana_4_do_Challenge)
 
 # Semana 1 do Challenge
 
