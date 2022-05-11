@@ -4,8 +4,8 @@
 
 Primeiro Challenge de Data Science da Alura
 
-* [Base De Dados](https://raw.githubusercontent.com/sthemonica/alura-voz/main/Dados/Telco-Customer-Churn.json)
-* [Dicionário de Dados](https://github.com/sthemonica/alura-voz/blob/main/dicionario.md)
+* [Base De Dados Original](https://raw.githubusercontent.com/sthemonica/alura-voz/main/Dados/Telco-Customer-Churn.json)
+* [Dicionário de Dados Original](https://github.com/sthemonica/alura-voz/blob/main/dicionario.md)
 
 ## Índice 
 
@@ -32,7 +32,8 @@ Primeiro Challenge de Data Science da Alura
     * Os dados originalmente estavam em inglês e foram traduzidos para o português.
 - [x] 6. Criar coluna de contas diárias.
     * A estimativa dos gastos médios diários cada cliente foi feita dividindo-se os gastos mensais por 30, já que a maioria dos meses têm 30 dias.
-- [Notebook da Primeira Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_1_explorando_dados.ipynb) 
+- [Notebook da Primeira Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_1_explorando_dados.ipynb)
+- [Dicionário de Dados Atualizado](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/novo_dicionario_dados.md)
 
 # Semana 2 do Challenge
 
