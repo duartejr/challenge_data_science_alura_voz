@@ -19,6 +19,6 @@
 * `contrato`: tipo de contrato (Mensal, Um ano, Dois anos)
 * `fatura_online`: se o cliente prefere receber online a fatura (1 - Sim ou 0 - Não)
 * `metodo_pagamento`: forma de pagamento (Cheque, Cheque eletrônico, Cartão de crédito ou Transferência bancária)
+* `gastos_diarios`: média de gastos diária (variável numérica contínua)
 * `gastos_mensais`: total de todos os serviços do cliente por mês (variável numérica contínua)
 * `gastos_totais`: total gasto pelo cliente (variável numérica contínua)
-* `gastos_diarios`: média de gastos diária (variável numérica contínua)
