@@ -37,7 +37,11 @@ Primeiro Challenge de Data Science da Alura
 
 # Semana 2 do Challenge
 
-:construction: Em construção :construction:
+- [] 1. Analisar a variável target: Churn
+- [x] 2. Visualizar a distribuição da variável target: Churn
+- [] 3. Criar visualizações importantes em relação ao Churn
+- [x] 4. Analisar a correlação das variáveis
+- [] 5. Testar diferentes tipos de gráficos
 
 
 # Semana 3 do Challenge
