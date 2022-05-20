@@ -32,16 +32,18 @@ Primeiro Challenge de Data Science da Alura
     * Os dados originalmente estavam em inglês e foram traduzidos para o português.
 - [x] 6. Criar coluna de contas diárias.
     * A estimativa dos gastos médios diários cada cliente foi feita dividindo-se os gastos mensais por 30, já que a maioria dos meses têm 30 dias.
-- [Notebook da Primeira Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_1_explorando_dados.ipynb)
-- [Dicionário de Dados Atualizado](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/novo_dicionario_dados.md)
+- [Notebook da Primeira Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_01/semana_1_explorando_dados.ipynb)
+- [Dicionário de Dados Atualizado](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/dados/novo_dicionario_dados.md)
 
 # Semana 2 do Challenge
 
-- [] 1. Analisar a variável target: Churn
+- [x] 1. Analisar a variável target: Churn
 - [x] 2. Visualizar a distribuição da variável target: Churn
-- [] 3. Criar visualizações importantes em relação ao Churn
+- [x] 3. Criar visualizações importantes em relação ao Churn
 - [x] 4. Analisar a correlação das variáveis
 - [] 5. Testar diferentes tipos de gráficos
+- [Resultados da Segunda Semana]()
+- [Notebook da Segunda Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_02/semana_2_analise_variabel_churn.ipynb)
 
 
 # Semana 3 do Challenge
