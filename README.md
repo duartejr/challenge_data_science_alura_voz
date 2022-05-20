@@ -43,7 +43,7 @@ Primeiro Challenge de Data Science da Alura
 - [x] 4. Analisar a correlação das variáveis
 - [] 5. Testar diferentes tipos de gráficos
 - [Resultados da Segunda Semana]()
-- [Notebook da Segunda Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_02/semana_2_analise_variabel_churn.ipynb)
+- [Notebook da Segunda Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_02/semana_2_analise_variavel_churn.ipynb)
 
 
 # Semana 3 do Challenge
