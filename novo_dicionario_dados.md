@@ -12,7 +12,7 @@
 * `servico_internet`: assinatura de um provedor internet (DSL, Fibra Óptica ou Não)
 * `seguranca_online`: assinatura adicional de segurança online (1 - Sim ou 0 - Não)
 * `backup_online`: assinatura adicional de backup online (1 - Sim ou 0 - Não)
-* `protecao_dispositivos`: assinatura adicional de proteção no dispositivo (1 - Sim ou 0 - Não)
+* `protecao_dispositivo`: assinatura adicional de proteção no dispositivo (1 - Sim ou 0 - Não)
 * `suporte_tecnico`: assinatura adicional de suporte técnico, menos tempo de espera (1 - Sim ou 0 - Não)
 * `streaming_TV`: assinatura de TV a cabo (1 - Sim ou 0 - Não)
 * `streaming_filmes`: assinatura de streaming de filmes (1 - Sim ou 0 - Não)
