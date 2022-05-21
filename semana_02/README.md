@@ -1,6 +1,6 @@
 # Semana 02 do Challenge
 
-## Análise Exploratória da Variável Targe Churn
+## Análise Exploratória da Variável Target Churn
 
 <p style='text-align: justify'> Nesta semana o objetivo do desafio era explorar a variável Churn. Foram geradas algumas visualizões a fim de identificar as caraceterísticas principais dos clientes que deram Churn. A seguir segue o resumo dos resultados obtidos. <\p>
 
