@@ -2,7 +2,7 @@
 
 ## Análise Exploratória da Variável Target Churn
 
-<p style='text-align: justify'> Nesta semana o objetivo do desafio era explorar a variável Churn. Foram geradas algumas visualizões a fim de identificar as caraceterísticas principais dos clientes que deram Churn. A seguir segue o resumo dos resultados obtidos. <\p>
+<p style='text-align: justify'> Nesta semana o objetivo do desafio era explorar a variável Churn. Foram geradas algumas visualizões a fim de identificar as caraceterísticas principais dos clientes que deram Churn. A seguir segue o resumo dos resultados obtidos. </p>
 
 ## Qual o percentual de clientes que estamos perdendo?
 
@@ -31,7 +31,7 @@
 
 ## Quanto tempo nosso clientes permanecem conosco?
 
-<p style='text-align: justify'>Nós temos um bom número de clientes fidelizados com mais de 70 meses. Porém, a maioria dos nossos clientes evadidos abandonam a empresa antes de completarem 1 ano de contrato. Se conseguirmos manter nossos novos clientes por mais de 6 meses é grande a possibilidade de os fidelizarmos por um longo período. Campanhas com preços promocionais e degustação de serviços talvez possam ser estratégias para estimular a permanência de nossos clientes na empresa. </p>
+<p align="justify">Nós temos um bom número de clientes fidelizados com mais de 70 meses. Porém, a maioria dos nossos clientes evadidos abandonam a empresa antes de completarem 1 ano de contrato. Se conseguirmos manter nossos novos clientes por mais de 6 meses é grande a possibilidade de os fidelizarmos por um longo período. Campanhas com preços promocionais e degustação de serviços talvez possam ser estratégias para estimular a permanência de nossos clientes na empresa. </p>
 
 <div align="center">
 <img src="https://imgur.com/SpW8kaI.jpg" width="800px" />
