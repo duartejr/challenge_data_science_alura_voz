@@ -23,7 +23,7 @@
 
 ### Gastos mensais
 
-<p align="justify"> Quando consideramos a distribuição dos gastos mensais vemos que nossos clientes fidelizados tedem a ter menores gastos mensais que os clientes evadidos. Isto levanta a hipótese de que talvez nossos clientes que evadiram possam ter contratado planos mais e caros que não atenderam suas expectativas. Talvez seja uma alternativa buscar planos com melhor relação custo benefício?</p>
+<p align="justify"> Quando consideramos a distribuição dos gastos mensais vemos que nossos clientes fidelizados tedem a ter menores gastos mensais que os clientes evadidos. Isto levanta a hipótese de que talvez nossos clientes que evadiram possam ter contratado planos mais caros que não atenderam suas expectativas. Talvez seja uma alternativa buscar planos com melhor relação custo benefício?</p>
 
 <div align="center">
 <img src="https://imgur.com/orMtdWl.jpg" width="800px" />
