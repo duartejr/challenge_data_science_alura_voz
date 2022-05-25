@@ -41,8 +41,8 @@ Primeiro Challenge de Data Science da Alura
 - [x] 2. Visualizar a distribuição da variável target: Churn
 - [x] 3. Criar visualizações importantes em relação ao Churn
 - [x] 4. Analisar a correlação das variáveis
-- [] 5. Testar diferentes tipos de gráficos
-- [Resultados da Segunda Semana]()
+- [x] 5. Testar diferentes tipos de gráficos
+- [Resultados da Segunda Semana](https://github.com/duartejr/challenge_data_science_alura_voz/tree/main/semana_02)
 - [Notebook da Segunda Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_02/semana_2_analise_variavel_churn.ipynb)
 
 
