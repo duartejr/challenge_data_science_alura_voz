@@ -53,7 +53,7 @@
 * O percentual de clientes que contratam algum serviço de internet é ligeiramente maior entre os clientes não fidelizados;
 * A maiorias dos serviços atrelados a conexão com internet são menos populares entre os clientes não fidelizados;
 * Os serviços de streaming são mais populares entre os clientes não fidelizados;
-* A maioria dos clientes não fidelizado prefere fatura online.
+* A maioria dos clientes não fidelizados prefere fatura online.
 
 <p align="justify">Podemos imaginar então que para fidelizar nossos clientes devamos focar nos serviços atrelados a conexão a internet. Quanto aos serviços de streaming podemos investigar quais os motivos que desagradaram os clientes e os fizeram nos deixar. </p>
 
@@ -84,4 +84,4 @@ A análise a seguir será útil para a elaboração de um futuro modelo de machi
 
 ## Conclusão
 
-<p style='text-align: justify'> Conseguimos entender o perfil geral de nossos clientes e possíveis causas do Churn. O nível de churn que temos (superior a 25%) é considerável e precisamos tomar ações para diminuirmos esta taxa. Como o perfil dos clientes com churn e sem churn é muito parecida fica difícil de identificarmos, manualmente, todas as combinações possíveis que podem estimular nossos clientes a evadirem. Assim, precisamos investir em um modelo de Machine Learning que possa avaliar as relações mais complexas entre as variáveis que temos para identificar clientes que potencialmente iram evadir da empresa.</p>
+<p align='justify'> Conseguimos entender o perfil geral de nossos clientes e possíveis causas do Churn. O nível de churn que temos (superior a 25%) é considerável e precisamos tomar ações para diminuirmos esta taxa. Como o perfil dos clientes com churn e sem churn é muito parecido fica difícil de identificarmos, manualmente, todas as combinações possíveis que podem estimular nossos clientes a evadirem. Assim, precisamos investir em um modelo de Machine Learning que possa avaliar as relações mais complexas entre as variáveis que temos para identificar clientes que potencialmente irão evadir da empresa.</p>
