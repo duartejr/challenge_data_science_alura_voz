@@ -1,7 +1,5 @@
 # Alura Voz - Challenge de Data Science
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
 Primeiro Challenge de Data Science da Alura
 
 * [Base De Dados Original](https://raw.githubusercontent.com/sthemonica/alura-voz/main/Dados/Telco-Customer-Churn.json)
@@ -43,8 +41,4 @@ Foram testados os seguintes modelos: Random Forest, AdaBoost, Regressão Logíst
 <p align='justify'>A análise exploratória dos dados, feita na etapa anterior, permitiu a redução de dimensionalidade e consequentemente a complexidade do mmodelo. Utilizando-se a técnica de undersampling consegui equilibrar as classes, assim diminuiu-se a probabilidade do modelo tornar-se tendencioso para uma determinada classe. Todos os modelos testador obtiveram resultados próximos de acurácia, apenas o KNN ficou mais distante dos demais. O modelo de AdaBoost destacouse por ser o de melhor desempenho tanto em recall (0,813) e Acurácia (0,766). Após aplicar-se técnicas de otimização pode-se obter um pequeno incremento no recall do AdaBoost (0,816). Talvez possa-se ter um incremento maior na performance do modelo mas limitações de hardware não permitiram testar esta hípotese. Ao utilizar os dados sem realizar técnica de balanceamento a acurácia foi bem elevada (0,803), porém, este resultado alto deve ao próprio desbalanceamento dos dados que faz o modelo tender a jogar mais valores para a classe dominante. Com a técnica de OverSampling, neste caso, foram obtidos resultados próximos aos do uso de Undersampling. Contudo, a técncia de oversampling deve ser utilizada com cuidado pois, quando o desbalanceamento entre as classes é muito grande, a quantidade de valores sintéticos pode comprometer as análises.</p>
 
 - [Notebook da Terceira Semana](https://github.com/duartejr/challenge_data_science_alura_voz/blob/main/semana_03/semana_03_machine_learning.ipynb)
-
-# Semana 4 do Challenge
-
-:construction: Em construção :construction:
 
